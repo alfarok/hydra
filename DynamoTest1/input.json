@@ -1,8 +1,13 @@
 {
   "versions": [ "1" ],
   "tags": [ "test", " dynamo", " hydra", " beta" ],
+  "components": {
+    "Dynamo": 1,
+    "Hydra": 1,
+  },
   "ghimg": "capture.png",
   "thumbnail": "thumbNailPath.png",
   "file": "DynamoTest1.dyn",
-  "date": "2015-09-30 15:58:49"
-}
+  "date": "2015-09-30 15:58:49",
+  "rhinoimg": "Kangaroo_Origami_Folding_Rhino.png"
+  }
