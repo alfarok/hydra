@@ -8,4 +8,4 @@ This file has been submitted by [alfarok](https://github.com/alfarok)
 ### Tags 
 Kangaroo, Origami, Folding
 ### Thumbnail 
-![Screenshot](https://raw.githubusercontent.com/alfarok/hydra/master/Kangaroo_Origami_Folding/thumbnail.png)
+![Screenshot](https://raw.githubusercontent.com/alfarok/hydra/master/DynamoTest1/thumbnail.png)
