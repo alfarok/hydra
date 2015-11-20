@@ -1,1 +1,12 @@
-{"versions":1,"tags":["test"," dynamo"," hydra"," beta"],"components":null,"dynimg":"capture.png","thumbnail":null,"file":"DynamoTest.dyn","date":"2015-11-20T01:12:01.5216825-05:00","geoimg":null}
+{
+  "versions": [ "1" ],
+  "tags": [ "test", "dynamo", " hydra", " beta" ],
+  "components": {
+    "Hydra": 1
+  },
+    "ghimg": "capture.png",
+    "thumbnail": "thumbnail.png",
+    "file": "DynamoTest.zip",
+    "date": "2015-09-30 15:58:49",
+    "geoimg": "capture2.png"
+  }
