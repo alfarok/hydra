@@ -61,7 +61,7 @@ Dynamo</System.String>
   <Annotations />
   <Presets />
   <Cameras>
-    <Camera Name="background_preview" eyeX="-1.16917362141554" eyeY="815.325699696569" eyeZ="100.478583979204" lookX="1.16917362141554" lookY="-810.325698742894" lookZ="-100.478583979204" />
+    <Camera Name="background_preview" eyeX="-1.16917359828949" eyeY="815.32568359375" eyeZ="100.478584289551" lookX="1.16917359828949" lookY="-810.32568359375" lookZ="-100.478584289551" />
   </Cameras>
   <Cameras>
     <Camera Name="topControl" eyeX="421.737488022577" eyeY="663.447280653036" eyeZ="-32.1312419159884" lookX="0.620194192649933" lookY="-576.206704004145" lookZ="-94.9909629567041" />
