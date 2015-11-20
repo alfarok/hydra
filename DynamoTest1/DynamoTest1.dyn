@@ -8,8 +8,8 @@
       <System.String value="DynamoTest1" />
     </Dynamo.Nodes.StringInput>
     <Dynamo.Nodes.StringInput guid="80f8fd02-256f-4261-bfb8-cd90a11b015b" type="Dynamo.Nodes.StringInput" nickname="String" x="40.6666666666666" y="129.333333333333" isVisible="true" isUpstreamVisible="true" lacing="Disabled" isSelectedInput="True">
-      <System.String>Testing Dynamo export to Hydra repo.</System.String>
-      <System.String value="Testing Dynamo export to Hydra repo." />
+      <System.String>Testing Dynamo export to Hydra repo!</System.String>
+      <System.String value="Testing Dynamo export to Hydra repo!" />
     </Dynamo.Nodes.StringInput>
     <Dynamo.Nodes.StringInput guid="26a4299c-5412-4899-9c55-a268984736ec" type="Dynamo.Nodes.StringInput" nickname="String" x="174" y="204.666666666666" isVisible="true" isUpstreamVisible="true" lacing="Disabled" isSelectedInput="True">
       <System.String>Version1</System.String>
