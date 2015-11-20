@@ -3,7 +3,7 @@ This definition explores panelization and manipulation using the origami node in
 
 This file has been submitted by [alfarok](https://github.com/alfarok)
 
-[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=alfarok&description=Kangaroo_Origami_Folding)
+[Check out this example on Hydra!](http://hydrashare.github.io/hydra/viewer?owner=alfarok&description=DynamoTest1)
 ### Version 1
 ### Tags 
 Kangaroo, Origami, Folding
