@@ -1,6 +1,6 @@
 ### Description
-Testing Dynamo Dependencies
+Testing Hydra for Dynamo
 ### Version
-File Version: 5
+File Version: 1
 ### Tags
 test,dynamo,hydra,beta
