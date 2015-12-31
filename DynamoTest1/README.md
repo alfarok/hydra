@@ -1,6 +1,6 @@
 ### Description
-Testing Dynamo export to Hydra repo.
+Testing component export
 ### Version
-File Version: 1
+File Version: 2
 ### Tags
-test, dynamo, hydra, beta
+test,dynamo,hydra,beta
