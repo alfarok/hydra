@@ -1,5 +1,5 @@
 ### Description
-Testing component export
+Testing Component Export
 ### Version
 File Version: 2
 ### Tags
